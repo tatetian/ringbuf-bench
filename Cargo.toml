@@ -1,0 +1,10 @@
+[package]
+name = "bench-ringbuf"
+version = "0.1.0"
+authors = ["Tate, Hongliang Tian <tate.thl@antfin.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ringbuf = "0.2.2"
